@@ -1,7 +1,7 @@
 # Contributing to ZEA-REPO
 
 Thank you for helping maintain EarthMC data for
-[ZEA](https://github.com/ZaminMC/ZEA). This repository is validated by
+[ZEA](https://github.com/ZaminEarthMCAddon/ZEA). This repository is validated by
 automation, so most mistakes are caught before review — but please read the
 rules below first.
 

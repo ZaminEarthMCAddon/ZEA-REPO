@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/ZaminMC/ZEA-REPO/main/schemas/channels.schema.json",
+  "$id": "https://raw.githubusercontent.com/ZaminEarthMCAddon/ZEA-REPO/main/schemas/channels.schema.json",
   "title": "ZEA-REPO channels dataset",
   "description": "EarthMC server chat channels and client-side feed categories. Commands are lowercase without the leading slash.",
   "type": "object",

@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/ZaminMC/ZEA-REPO/main/schemas/badges.schema.json",
+  "$id": "https://raw.githubusercontent.com/ZaminEarthMCAddon/ZEA-REPO/main/schemas/badges.schema.json",
   "title": "ZEA-REPO badges dataset",
   "description": "EarthMC chat badge symbols with community-verified meanings.",
   "type": "object",

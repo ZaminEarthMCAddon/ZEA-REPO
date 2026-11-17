@@ -1,7 +1,7 @@
 # ZEA-REPO
 
 Community-maintained EarthMC data consumed by
-[ZEA](https://github.com/ZaminMC/ZEA), Zamin's EarthMC Addon.
+[ZEA](https://github.com/ZaminEarthMCAddon/ZEA), Zamin's EarthMC Addon.
 
 ZEA-REPO stores only **curated, stable, community-verified data**: badge
 meanings, chat channel definitions, and curated nation/town descriptions.

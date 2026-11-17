@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/ZaminMC/ZEA-REPO/main/schemas/nation.schema.json",
+  "$id": "https://raw.githubusercontent.com/ZaminEarthMCAddon/ZEA-REPO/main/schemas/nation.schema.json",
   "title": "ZEA-REPO nation entry",
   "description": "Curated, community-maintained nation data. Live data (residents, balance, towns, allies) is never stored here - it comes from the EarthMC API at runtime.",
   "type": "object",

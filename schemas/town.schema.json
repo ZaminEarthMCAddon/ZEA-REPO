@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/ZaminMC/ZEA-REPO/main/schemas/town.schema.json",
+  "$id": "https://raw.githubusercontent.com/ZaminEarthMCAddon/ZEA-REPO/main/schemas/town.schema.json",
   "title": "ZEA-REPO town entry",
   "description": "Curated, community-maintained town data. Live data (mayor, residents, nation, balance, coordinates) is never stored here - it comes from the EarthMC API at runtime.",
   "type": "object",
